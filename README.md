@@ -1,5 +1,5 @@
 # Projeto-Scooby-Doo-Google-Cloud-e-Qliksense
-Um projeto juntando conceitos de SQL no google Cloud em conjunto com a visualização de dados pelo QlikSense
+Um projeto juntando conceitos de SQL no Google Cloud em conjunto com visualização de dados pelo QlikSense
 
 ### Banco de Dados
 O banco de dados utilizado é o "Scooby-Doo Complete - Episode List - Update 10 19 21", retirado do Kaggle
