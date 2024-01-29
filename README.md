@@ -1,4 +1,4 @@
-# Projeto-Scooby-Doo-Google-Cloud-e-Qliksense
+# Projeto Scooby Doo Google Cloud e Qliksense
 Um projeto juntando conceitos de SQL no Google Cloud em conjunto com visualização de dados pelo QlikSense
 
 ### Banco de Dados
