@@ -79,13 +79,16 @@ Essas foram as pequenas análises que fiz para explorar um pouco da inteface do 
 
 O que eu tentei passar com o dashboard são as informações gerais das séries, tendo como ver em que canal ela passa (ou passava), se é um série, crossover ou filme, tempo médio de duração dos episódios, número de episódios.
 
-Seguindo das notas do IMDB por série, ao clicar tendos as informações gerais, ao lado se tem uma informação que eu coloquei por pura curiosidade mesmo, pra entender a quantidade do tipo de monstros que se tem em cada série. Vai que você gosta mais de fantasmas, pode ir vendo por série para saber qual tem uma porcentagem maior de aparição dos mesmos.
+Seguindo das notas do IMDB por série, e para melhor visualização ao lado, temos os 5 melhores episódios de cada série, ordenados também pela média do IMDB
 
 Abaixo coloquei as notas por ano, para ter uma ideia dos piores anos (1994 e 2008) e os melhores (1997 e 2010 até 2013), além de ser uma boa visualização para se saber em que época saiu a série quando selecionada
 
-![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/3d1cbdd5-d27e-4a9e-a040-c80eaa0249a5)
+![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/0b673162-3261-4eff-8a83-cb823de79c15)
+
+
 
 ### Demonstração de escolha
 
-![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/6d892936-fb3a-43b5-bd2c-45766c35648d)
+![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/c5fc633d-cb57-405d-9a64-6239e79a6007)
+
 
