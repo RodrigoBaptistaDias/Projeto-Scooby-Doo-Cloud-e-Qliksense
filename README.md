@@ -1,38 +1,38 @@
 # Projeto Scooby Doo Google Cloud e Qliksense
 Um projeto juntando conceitos de SQL no Google Cloud em conjunto com visualização de dados pelo QlikSense
 
-### Banco de Dados
+## Banco de Dados
 O banco de dados utilizado é o "Scooby-Doo Complete - Episode List - Update 10 19 21", retirado do Kaggle
 
-[Scooby-Doo Kaggle](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete?resource=download%5D)
+- [Scooby-Doo Kaggle](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete?resource=download%5D)
 
 Caso haja interesse o Data Dictionary do mesmo pode ser encontrado aqui 
 
-[Data Dictionary Scooby-Doo](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-07-13#data-dictionary)
+- [Data Dictionary Scooby-Doo](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-07-13#data-dictionary)
 
-### AVISO
+## AVISO
 Gosto de escrever bastante, então como pode ver, tem bastante texto, caso você seja alguém ocupado ou com pouco tempo, as imagens estão com o código comentado de forma mais direta, no geral o texto são motivações do porque eu fiz e o que passava na minha mente enquanto tratava os dados.
 
 Obrigado pela preferência!
 
-### MOTIVO
+## MOTIVO
 
 Como se é esperado de todo e qualquer projeto, a motivação para fazer o mesmo. Acredito que principalmente para sair da zona de conforto, uma vez que foi minha primeira experiência com o Bigquery do Google Cloud. Não posso falar o mesmo do QlikSense, um antigo amigo ao qual foi trocado pelo seu irmão "mais bonito" mas não tão talentoso, PowerBi. Utilizei dessa experiência para ter um primeiro contato novamente com o mesmo, como um aquecimento antes de correr, cada projeto é um polichinelo.
 
 E o motivo de ser do Scooby-Doo? Levando em conta que meu último banco de dados foi com dados de OVNIS e o próximo vai ser com as pinturas dos Bob Ross, a resposta parece mais simples, me divirto com bancos de dados não convenientes, além de ser original me dá uma liberdade diferente.
 
-### OBJETIVO
+## OBJETIVO
 
 A ideia no começo foi tentar pegar características dos personagens, como "Quem capturou mais?", "Qual o vilão que apareceu mais vezes seguidas", acredito que mantive com o objetivo inicial, contudo conforme fui pesquisando descobri que a temporada Mystery Incorporation (2011-2013), é realmente muito boa e acabei tentando entender melhor quais são os episódios/temporadas melhor avaliadas da série, afim de poder assistir depois no tempo livre.
 
 O objetivo do QlikSense foi esse, você quer ver Scooby Doo, mas o último que viu foi o de 1969 (que por sinal é o primeiro), por qual devo começar? Quanto tempo devo dedicar? Etc...
 
-### GOOGLE CLOUD BIG QUERY
+## GOOGLE CLOUD BIG QUERY
 
 Admito que em um primeiro momento foi complicado entender bem a plataforma, mas nada que 3 vídeos de indianos não resolvessem. 
 Depois de entender melhor como funcionava o BigQuery e ver que não era um monstro de 7 cabeças, foi só deixar o SQL falar por mim, infelizmente por ser um banco de dados mais tranquilo não consegui colocar as Window Functions muito menos os JOINS, contudo como eu comentei antes, cada polichinelo aquece um pouco.
 
-### Episódio Mais Famoso
+## Episódio Mais Famoso
 
 No começo a ideia era fazer algo simples, se eu fosse assistir um episódio hoje e me importasse de uma forma não saúdavel com a sua nota no IMDB, qual episódio eu assistiria?
 
@@ -48,7 +48,7 @@ Defini também um número de avaliações mínimo para que a nota fosse mais coe
 
 
 
-### Melhor Série e Temporada
+## Melhor Série e Temporada
 
 Aqui eu fiz questão de deixar o fanatismo dos fãs de Supernatural de lado, eu já sabia qual temporada tinha os melhores episódios avaliados, mas nada adianta se o resto da temporada for uma tortura, então decidi ver qual série e temporada detém a melhor nota
 
@@ -60,7 +60,7 @@ Um problema visíviel é baixa com relação a segunda temporada, isso pode ser 
 ![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/cd61baa6-b0c2-4467-b752-c8466519e501)
 
 
-### Maior Número de Capturas
+## Maior Número de Capturas
 
 Depois de concluir qual série do Scooby Doo eu iria ver, decidi explorar um pouquinho mais do banco de dados só por brincadeira, quem capturou mais monstros ao longo dessa trajetório? Pergunta simples
 
@@ -75,7 +75,7 @@ Para surpresa de ninguém que mais capturou foi o Scooby, o que me impressiona n
 Essas foram as pequenas análises que fiz para explorar um pouco da inteface do BIGQUERY utilizando SQL, continuarei analisando esse banco de dados com outras ideias mais aprofundadas, contudo fiquei bem satisfeito e me senti até confortável em utilizar o BIGQUERY no final do projeto.
 
 
-### QLIKSENSE
+## QLIKSENSE
 
 O que eu tentei passar com o dashboard são as informações gerais das séries, tendo como ver em que canal ela passa (ou passava), se é um série, crossover ou filme, tempo médio de duração dos episódios, número de episódios.
 
@@ -87,7 +87,7 @@ Abaixo coloquei as notas por ano, para ter uma ideia dos piores anos (1994 e 200
 
 
 
-### Demonstração de escolha
+## Demonstração de escolha
 
 ![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/c5fc633d-cb57-405d-9a64-6239e79a6007)
 
