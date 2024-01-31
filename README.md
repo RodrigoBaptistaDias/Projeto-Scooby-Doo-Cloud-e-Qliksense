@@ -75,7 +75,7 @@ Para surpresa de ninguém que mais capturou foi o Scooby, o que me impressiona n
 Essas foram as pequenas análises que fiz para explorar um pouco da inteface do BIGQUERY utilizando SQL, continuarei analisando esse banco de dados com outras ideias mais aprofundadas, contudo fiquei bem satisfeito e me senti até confortável em utilizar o BIGQUERY no final do projeto.
 
 
-## QLIKSENSE
+## Qliksense
 
 O que eu tentei passar com o dashboard são as informações gerais das séries, tendo como ver em que canal ela passa (ou passava), se é um série, crossover ou filme, tempo médio de duração dos episódios, número de episódios.
 
@@ -83,12 +83,6 @@ Seguindo das notas do IMDB por série, e para melhor visualização ao lado, tem
 
 Abaixo coloquei as notas por ano, para ter uma ideia dos piores anos (1994 e 2008) e os melhores (1997 e 2010 até 2013), além de ser uma boa visualização para se saber em que época saiu a série quando selecionada
 
-![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/0b673162-3261-4eff-8a83-cb823de79c15)
+## Apresentação
 
-
-
-## Demonstração de escolha
-
-![image](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Cloud-e-Qliksense/assets/137357721/c5fc633d-cb57-405d-9a64-6239e79a6007)
-
-
+![Scooby Doo](https://github.com/RodrigoBaptistaDias/Projeto-Scooby-Doo-Google-Cloud-e-Qliksense/assets/137357721/fb8a85c5-9294-452e-b580-fc01c787a7e3)
